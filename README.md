@@ -1,2 +1,2 @@
 # python_basic_exercises
-Solutions to Exercise list from basics python from Lets Code from ADA
+Solutions to basics python exercise list from Lets Code from ADA
